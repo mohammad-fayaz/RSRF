@@ -27,7 +27,8 @@ install_github("mohammad-fayaz/RSRF")
 It has one vignette in this version:
 - Random Splitting Random Forest for Categorical Response
 You can run it step by step. 
-> It is in the **Vignettes** folder. (PDF file)
+> It is in the **Vignettes** folder. (PDF file **13 pages**)
+[Vignettes](https://github.com/mohammad-fayaz/RSRF/blob/master/vignettes/RSRF_Categorical_Output.pdf).
 
 ## References 
 - [Oral Presentation] Fayaz M. and Abadi A.,**Functional Random Forest for Mixed Data**, The 41st Annual Conference of the International Society for Clinical Biostatistics (ISCB 2020)
