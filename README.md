@@ -9,12 +9,12 @@ Response Types
 Version 1.0
 
 ## Origin 
-It is an extension of the Möller et al. (2016) algorithm with the following new options:
-- Multiple covariates
-- Multiple functioanl covariates and non-functioanl covariates
+It is an extension of the **Möller et al. (2016)** algorithm with the following new options:
+- **Multiple** covariates
+- Multiple **functioanl** covariates and **non-functioanl** covariates
 - The respose type are **Survival** with censoring, **Categorical** and **Continuous**.
-- The Variable Importance Plot (VIP) is enhanced.
-- The random forest engine is from **randomForestSRC** by Ishwaran et al.
+- The **Variable Importance Plot (VIP)** is enhanced.
+- The random forest engine is from **randomForestSRC** by **Ishwaran et al (2022)**.
 
 ## Install in R
 
