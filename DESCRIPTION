@@ -1,0 +1,11 @@
+Package: RSRF
+Type: Package
+Title: Random Forest for Mixed Data
+Version: 1.0.0
+Author: Mohammad Fayaz
+Maintainer: Mohammad Fayaz <Mohammad.Fayaz.89@gmail.com>
+Description: Random Forest algorithms for mixed data including functioanl and scalar data. (Response Types: Continuous, Categorical, Survival)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
