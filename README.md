@@ -23,6 +23,11 @@ You can install the **RSRS** package from github and use it directly in *R* or *
 library(devtools)
 install_github("mohammad-fayaz/RSRF")
 ```
+or 
+```
+library(pak)
+pak::pkg_install("mohammad-fayaz/RSRF")
+```
 ## Vignettes
 It has one vignette in this version:
 - Random Splitting Random Forest for Categorical Response
